@@ -1,25 +1,25 @@
 # SupplyFrame
 
 
-##Supplyframe Fullstack Challenge 
+## Supplyframe Fullstack Challenge 
 Create a Node app that shows projects from the Hackaday.io API. This page should show many projects, their respective metadata, owner information, and have pagination. 
 
-###Requirements 
+### Requirements 
 Node.js 
 Use Git (or Bitbucket) 
 SASS 
 Vanilla Javascript
 
-###Suggestions 
+### Suggestions 
 Express 
 EJS 
 Nightwatch
 
-###Setup 
+### Setup 
 Create an account at hackaday.io 
 Log in to dev.hackaday.io and create an application 
 
-###Objectives 
+### Objectives 
 Project List Page 
 - Render a page that shows a list or grid of projects (using GET /projects). 
 - This page should be initially rendered server-side. 
@@ -40,7 +40,7 @@ Project Detail Page
 Implement Testing 
 - Implement your favorite test framework/tool to check your work as you go - the level of detail is up to you. 
 
-###More Suggestions 
+### More Suggestions 
 - Commit often! 
 - How you present the data matters. Your design can be simple/minimal, but we still consider design. 
 - If using a CSS framework as a base, try only including the files you need. 
